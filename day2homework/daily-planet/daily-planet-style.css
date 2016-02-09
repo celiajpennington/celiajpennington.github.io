@@ -1,6 +1,7 @@
 body {
     width: 75%;
     margin: 0 auto;
+    background-color: #a6917b;
 }
 
 header, nav, main, section, aside, footer {
@@ -8,6 +9,9 @@ header, nav, main, section, aside, footer {
     margin-top: 10px;
     
 }
+header {
+        text-align: center;
+} 
 
 section, aside {
     float: left;
