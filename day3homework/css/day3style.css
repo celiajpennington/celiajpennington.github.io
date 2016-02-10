@@ -1,0 +1,19 @@
+body {
+    padding: 10px;
+    margin: 8px;
+    display:block;
+}
+header, .link{
+    background-color:blue;
+    color: white;
+    font-family:sans-serif;
+    }
+#support {
+    background-color:rgb(238,233,233);
+    display: block;    
+}
+table{
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
