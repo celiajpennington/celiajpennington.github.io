@@ -2,6 +2,8 @@ body {
     padding: 10px;
     margin: 8px;
     display:block;
+    width:825px;
+    height: 625px;
 }
 header, .link{
     background-color:blue;
@@ -17,3 +19,6 @@ table{
     border-spacing: 2px;
 }
 
+p {
+    font-size: 14px;
+}
