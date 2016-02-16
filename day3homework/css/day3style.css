@@ -1,9 +1,9 @@
 body {
     padding: 10px;
-    margin: 8px;
+    margin: auto;
     display:block;
     width:825px;
-    height: 625px;
+    
 }
 header, .link{
     background-color:blue;
