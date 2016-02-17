@@ -1,0 +1,49 @@
+body {
+    margin: auto;
+    width: 1000px;
+    background-color: white;
+}
+
+#image {
+    height: 450px;
+    width: 1000px;
+    
+    
+}
+
+h1  {    
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
+
+#info {
+    height: 324px;
+    width: inherit;
+    background-color: lightgray;
+        
+}
+
+#social {
+    padding: 25px;
+    width: 270px;
+    float: left;
+    margin-right: 20px;
+}
+
+#office {
+    padding: 25px;
+    width: 270px;
+    float: left;
+    margin-right: 20px;
+    
+}
+
+
+
+#contact {
+    padding: 25px;
+    width: 270px;
+    float: left;
+
+}
