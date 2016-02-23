@@ -1,3 +1,7 @@
+* {
+    b
+}
+
 body {
     font-family: sans-serif;
     width: 1366px;
@@ -7,9 +11,11 @@ body {
     color: #737373;
     font-weight: 300;
 }
-main {
-    margin-bottom: 40px;
-    padding-bottom: 50px;
+.main {
+    margin-bottom: 5px;
+    padding-bottom: 100px;
+    height: 515px;
+
 }
 
 .title {
@@ -67,30 +73,33 @@ aside {
     background-color: #f2f2f2;
     display: block;
 }
-footer {
-    width: 100%;
+.footer {
     clear: both;
     display: block;
-    margin-top: 150px;
     overflow: auto;
-    border: 1px solid #f2f2f2;
+    border-top: 1px solid #f2f2f2 ;
+    border-bottom: 1px solid #f2f2f2;
+    margin-top: 50;
     }
 #profession {
     float: left;
     margin-left: 52px;
     width: 380px;
     border-right: 1px solid #f2f2f2;
+    margin-top: 20px;
 }
-#main {
+#middle {
     float: left;
     margin-left: 52px;
     width:380px;
     border-right: 1px solid #f2f2f2;
+    margin-top: 10px;
     }
 #pricing {
     float: right;
     width: 380px;
     padding-right: 80px;
+    margin-top: 5px;
 }
 .clear-fix:after: {
     display: block;
