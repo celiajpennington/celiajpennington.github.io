@@ -70,11 +70,15 @@ main {
 }
 #index {
     background-image:url('../img/1.jpg');
-    width:1539px;
+    width:1294px;
     height: 712px;
-    text-align: center;
-    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
     color: white;
+    display: block;
+    line-height: 50px;
+    text-align: center;
+    font-family: sans-serif;
     
 }
 aside {
@@ -104,3 +108,40 @@ section {
     color: white;
     background-color: darkgray;
 }
+.shovel {
+    height: 10em;
+    position: relative;
+    padding-top: 150px;
+    
+}
+.shovel p h1 h3 a {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate( -50%, -50%)
+    }
+#landscaping {
+    font-size: 20px;
+}
+#skills {
+    font-size: 20px;
+    
+}
+#craft {
+    font-size: 30px;
+}
+#contact {
+    text-decoration: none;
+    color: white;
+    border: 15px;
+    background-color: darkgreen;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 12px;
+}
+
+
+
