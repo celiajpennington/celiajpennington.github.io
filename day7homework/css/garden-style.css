@@ -41,6 +41,9 @@
     padding: 100px;
     float: left;
     margin-top: 10px;
+    height: 340px;
+    background-size:cover;
+
 
 }
 #land h1 {
@@ -61,6 +64,7 @@
     padding: 5px;
     margin-bottom: 20px;
     line-height: 2;
+    
 }
 main {
     background-color: white;
