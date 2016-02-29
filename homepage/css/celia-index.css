@@ -1,0 +1,36 @@
+body {
+    background: url('http://www.pptback.com/uploads/black-brick-wall-backgrounds-powerpoint.jpg');
+    color: white;
+    width: 1000px;
+    } 
+header {
+    margin-bottom: -10px;
+}
+#img {
+    float: left;
+    margin-top: 10px;
+}
+
+#gabby {
+    display:block;
+    width: 466px;
+    height: 466px;
+    margin-top: 20px;
+    
+}
+#list {
+    float: right;
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: Montserrat, sans-serif;
+}
+.work {
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
