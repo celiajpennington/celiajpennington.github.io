@@ -43,9 +43,13 @@ nav a {
 #center h1 {
     font-size: 45px;
 } 
+#center h4{
+    padding-bottom: 10px ;
+}
 #center a {
-    border: 2px solid #FBE5C2;
+    border: 2px solid #96CDCD;
     padding: 10px;
     text-decoration: none;
     color: mintcream;
+    font-family: sans-serif;
 }
