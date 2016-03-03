@@ -1,3 +1,7 @@
+html {
+    background-color: #AEEEEE;
+}
+
 .clear-fix:after {
     content: '';
     display: block;
@@ -5,7 +9,6 @@
 }
 
 header {
-    background-color: mintcream;
     margin-bottom: 10px;
 }
 
@@ -16,7 +19,6 @@ header h1 {
 
 nav {
     float: right;
-    background-color: mintcream;
 }
 
 nav a {
@@ -60,7 +62,6 @@ nav a {
 
 #about {
     width: 1130px;
-    background-color: mintcream;
 }
 
 #bio h3 {
@@ -75,7 +76,6 @@ nav a {
     font-family: sans-serif;
     line-height: 150%;
 }
-
 img {
     width: 400px;
     height: 400px;
@@ -85,3 +85,35 @@ img {
     margin-right: 110px;
     padding-bottom: 10px;
 }
+#music {
+    width: 1260px;
+    margin-top: 80px;
+}
+#music div {
+    margin-top: 20px;
+    width: 300px;
+    margin-top: inherit;
+    float: left;
+    margin-right: 15px;
+
+    
+}
+.clear-fix:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+#music img {
+    width:200px;
+    height: 200px;
+    margin-left: 20px;
+    }
+#music h4 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+#music p {
+    text-align: center;
+    font-family: sans-serif;
+    }
