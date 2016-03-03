@@ -1,0 +1,29 @@
+header {
+    text-align: center;
+    color:white;
+    background-color: black;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+#pizza {
+    background: url('../intro-midterm-master/img/pizza.png');
+    
+}
+#about {
+    text-align: center;
+    float: left;
+    }
+.three {
+    width: 200px;
+    height: 200px;
+}
+#picture {
+    width: 1000px;
+    float: left;
+}
+#mountain {
+    clear:right;
+}
+#moped {
+    float:;
+}
