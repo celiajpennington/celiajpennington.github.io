@@ -117,3 +117,64 @@ img {
     text-align: center;
     font-family: sans-serif;
     }
+.clear-fix:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+#hotel-vegas {
+    float: left;
+}
+#whole-wall {
+    float: left;
+    
+}
+#video {
+    width: 1400px;
+    text-align: center;
+}
+#video img {
+    width: 450px;
+    height: 250px;
+    margin-left: 40px;
+}
+#video p {
+    font-size: 15px;
+    font-family: sans-serif;
+    width: 400px;
+    margin-left: 75px;
+    padding: 20px;
+    }
+#tour {
+    background: url(http://genuineleathermusic.com/wp-content/uploads/2016/02/Jeff-Jazz-Background.jpg);
+    background-size: 1200px 600px;
+    background-repeat: no-repeat;
+    margin-left: 15px;
+    padding: 15% 0;
+    margin-top: 30px;
+}
+.clear-fix:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+#tour p {
+    padding: 6% 8%;
+    color: white;
+    font-size: 25px;
+    
+}
+#one {
+    float: left;
+    display: block;
+    margin-left: 315px;
+    border: 3px solid white; 
+    margin-top: 40px;
+    
+}
+#two {
+    float: right;
+    display: block;
+    margin-right: 300px;
+    border: 3px solid white;
+}
