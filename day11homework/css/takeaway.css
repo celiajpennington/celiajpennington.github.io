@@ -1,0 +1,37 @@
+#hero {
+    background: url(../img2/sub_header_home.jpg);
+    background-repeat: no-repeat;
+    height: 10em;
+    position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 150px;
+    color: white;
+    height: 500px;
+}
+#hero h1 {
+    font-size: 60px;
+    font-weight: 100;
+    
+}
+#hero p {
+    font-size: 15px;
+}
+#pictures div {
+     margin-top: 20px;
+    width: 200px;
+    margin-top: inherit;
+    float: left;
+    margin-left: 70px;
+    padding-left: 20px;
+}
+
+.clear-fix:after {
+    display: block;
+    content: '';
+    clear: both;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    
+    
+}
