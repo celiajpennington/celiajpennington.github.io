@@ -19,7 +19,7 @@
 }
 #pictures div {
      margin-top: 20px;
-    width: 200px;
+    width: 170px;
     margin-top: inherit;
     float: left;
     margin-left: 70px;
@@ -30,6 +30,10 @@
     display: block;
     content: '';
     clear: both;
+}
+#pictures img {
+    padding-left: 37px;
+    
 }
 @media (min-width: 768px) and (max-width: 991px) {
     
