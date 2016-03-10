@@ -9,21 +9,23 @@
     color: white;
     height: 500px;
 }
+
 #hero h1 {
     font-size: 60px;
     font-weight: 100;
-    
 }
+
 #hero p {
     font-size: 15px;
 }
+
 #pictures div {
-     margin-top: 20px;
+    margin-top: 20px;
     width: 170px;
     margin-top: inherit;
     float: left;
     margin-left: 70px;
-    padding-left: 20px;
+    padding-left: 45px;
 }
 
 .clear-fix:after {
@@ -31,11 +33,18 @@
     content: '';
     clear: both;
 }
+
 #pictures img {
     padding-left: 37px;
-    
 }
-@media (min-width: 768px) and (max-width: 991px) {
+
+@media (min-width: 768px) and (max-width: 991px){ 
+    section div {
+       width: 50%; 
+    }
+}
     
-    
+@media (max-width: 767px){
+ section div { width: 100%;  
+    }
 }
