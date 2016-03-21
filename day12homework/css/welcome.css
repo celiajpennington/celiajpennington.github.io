@@ -1,8 +1,78 @@
 #hero {
     background-color: #00ffff;
     color: #fff;
+    height: 10em;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 150px;
+    height: 300px;
 }
 #awesome {
     background-color: #000;
     color: #fff;
+    height: 10em;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 150px;
+    height: 300px;
+}
+h1 {
+    font-size: 45px;
+    font-weight: 100;
+}
+.clear-fix:after {
+    display: block;
+    content: '';
+    clear:both;
+    
+} 
+#title div {
+    text-align: center;
+    width: 25%;
+    height: auto;
+    float: left;
+}
+#title {
+    background-color: #00CDCD;
+    color: #fff;
+    line-height: 15px;
+}
+#title h3 {
+    font-size: 40px;
+    font-weight: 100;
+}
+#title p {
+    width: 80%;
+    margin-left: 40px;
+}
+
+#title h4 {
+    height: 35px;
+    width: 50%;
+    margin-left: 75px;
+}
+#black {
+    background-color: #000;
+}
+#orange {
+    background-color: #FF5333;
+}
+#teal {
+    background-color: #00FFAA;
+}
+#white {
+    background-color: #fff;
+}
+@media (max-width: 767px) {
+    
+    #title div {
+        width: 50%;
+    }
+    #awesome {
+        width: 50%;
+    }
+    #hero {
+        width: 50%;
+    }
+
 }
