@@ -19,13 +19,23 @@
     font-size: 15px;
 }
 
-#pictures div {
-    margin-top: 40px;
+
+
+.col-md-3 col-sm-6 {
+    margin-top: 60px;
     text-align: center;
-    width: 25%;
+    width: 80%;
 
 }
 
 #pictures img {
     padding-left: 90px;
+    margin-top: 40px;
+}
+@media max-width(768px)
+{
+    #pictures div {
+        padding: inherit;
+    }
+
 }
