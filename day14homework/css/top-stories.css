@@ -1,0 +1,70 @@
+img {
+    
+    width: 100%;
+    margin-top: 20px;
+
+}
+h1 {
+    font-size: 25px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+#hero p {
+    font-family: sans-serif;
+    font-weight: bolder;
+    
+}
+a {
+    display: block;
+    height: 40px;
+    width: 95px;
+    background-color: #808080;
+    color: white;
+    border: 10px solid #808080; 
+    text-align: center;
+}
+#stories {
+    width: 25%;
+    margin-left: 40px;
+
+}
+h3 {
+    font-size: 18px;
+    font-weight: bolder;
+    border-bottom: 1px solid #000;
+    padding-bottom: 20px;
+    }
+#stories p {
+    text-align:left;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.hidden-sm-down {
+    display: block;
+}
+h2 {
+    font-size: 18px;
+    color: #FFF;
+    
+}
+#link {
+    background-color: #808080;
+}
+#link a {
+    font-weight: 100;
+    text-align: left;
+    border-bottom: 1px solid #FFF;
+}
+#facebook i {
+    padding-left: 8px;
+}
+#instagram i {
+   padding-left: 8px;
+}
+#twitter i {
+padding-left: 25px;
+}
+
+
+
