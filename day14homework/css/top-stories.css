@@ -48,6 +48,10 @@ h2 {
 }
 #link {
     background-color: #808080;
+    margin-top: 20px;
+    width: 80%;
+    float:left;
+    margin-left: 20px;
 }
 #link a {
     font-weight: 100;
