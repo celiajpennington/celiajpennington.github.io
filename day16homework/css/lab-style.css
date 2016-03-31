@@ -1,0 +1,16 @@
+
+body {
+    background-color: #d3d3d3;
+}
+.hero {
+    margin-top: 20px;
+}
+.yellow-bg {
+    background-color: #FFFF00;
+    text-align: center;
+    font-weight: 100;
+    line-height: 20px;
+    height: 377px;
+    display: block;
+    
+}
