@@ -1,0 +1,36 @@
+.hero {
+    background-image: url("http://foundry.mediumra.re/img/wine14.jpg");
+    background-repeat: no-repeat;
+    color: #fff;
+    background-position: center;
+}
+
+#doubt h5 {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#signature {
+    width: 33%;
+}
+
+#man-text {
+    text-align: center;
+    font-family: Georgia;
+    margin-top: 300px;
+    line-height: 32px;
+}
+
+.bottles img {
+    width: 45%;
+    float: left;
+    margin-left: 85px;
+}
+
+.navbar-brand {
+    color: #000;
+}
+
+.navbar navbar-default navbar-fixed-top {
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
+}
