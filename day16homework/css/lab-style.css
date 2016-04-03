@@ -7,10 +7,44 @@ body {
 }
 .yellow-bg {
     background-color: #FFFF00;
-    text-align: center;
+    text-align: left center;
     font-weight: 100;
-    line-height: 20px;
-    height: 377px;
+    height: 548px;
     display: block;
+    padding: 70px 70px;
+    font-family: open sans-serif;
     
+    
+}
+h1 {
+    font-size: 25pt;
+    width: 85%;
+    font-weight: 100;
+       line-height: 30pt;
+}
+.yellow-bg p {
+    width: 85%;
+    font-size: 14px;
+    padding-top: 15px;
+    line-height: 20px;
+    
+}
+#responsive {
+    background-color: rgb(238, 238, 238);
+    padding: 25px;
+    text-align: left;
+    width: 267px;
+    height: 270px;
+    margin-top: 10px;
+}
+.col-md-3 div img {
+    width: 267px;
+    margin-top: 10px;
+    height: 270;
+}
+#book-two {
+    height: 270px;
+}
+#wallet {
+    height: 267px;
 }
