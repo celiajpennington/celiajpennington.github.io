@@ -1,0 +1,101 @@
+header img {
+    width: 15%;
+    margin-left: 40px;
+ 
+}
+
+nav {
+    float: right;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+nav a {
+    color: #fff;
+     border: 3px solid #4C4646;
+    padding: 20px;
+    background-color: #4C4646;
+}
+.hero {
+    background-image: url("http://cincofit.com/wp-content/uploads/2015/07/highland-knolls-23010-0372.jpg");
+    background-repeat: no-repeat;
+    height: 375px;
+        width: 1200px;
+    text-align: center left;
+    color: #fff;
+    padding: 75px;
+}
+#affordable {
+    background:rgba(0,0,0,0.8);
+    width: 50%;
+    padding: 20px;
+}
+h1 {
+    font-size: 30px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 200;
+    font-family: 'Merriweather Sans', sans-serif;
+    padding-bottom: 10px;
+}
+#affordable a {
+    background-color: #0b0be7;
+    padding: 10px;
+    color: #fff;
+    font-weight: 100;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.about img {
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+.about-text {
+    padding-left: 80px;
+    text-align: center;
+    width: 65%;
+    line-height: 25px;
+    margin-left: 60px;
+    font-family: 'Merriweather Sans', sans-serif;
+    
+}
+.about-text p {
+    margin-bottom: 20px;
+}
+.about-text a {
+    padding: 15px;
+    background-color: #4C4646;
+    color: #fff;
+}
+.four-ways {
+    margin-top: 15px;
+    
+}
+.four-ways img {
+    width: 100%;
+    height: 60%;
+}
+#four-ways-text {
+    text-align: center;
+    line-height: 25px;
+
+}
+h4 {
+    font-family: 'Lato', sans-serif; 
+}
+.four-ways p {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-weight: 100;
+}
+.grey-bg {
+    background-color: #C0C0C0;
+    color: #fff;
+    height: 250px;
+    margin-left: 15px;
+    width: 22%;
+    padding: 10px;
+}
