@@ -120,18 +120,12 @@ margin-top: 20px;
     margin-left: 100px;
     font-family: 'Merriweather Sans', sans-serif;
 }
-footer {
+.contact {
     background-color: #4C4646;
     height: 385px;
     padding: 40px
 }
-footer img {
-    height: 300px;
-    }
-footer h4 p {
-    float:right;
-    width:200px;
-}
+
 
 
 
