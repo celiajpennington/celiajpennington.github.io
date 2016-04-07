@@ -1,6 +1,6 @@
 header img {
     width: 15%;
-    margin-left: 40px;
+   
  
 }
 
@@ -50,7 +50,7 @@ h2 {
     font-family: 'Merriweather Sans', sans-serif;
 }
 .about img {
-    width: 300px;
+    width: 260px;
     height: 200px;
     margin-top: 10px;
 }
@@ -73,11 +73,12 @@ h2 {
 }
 .four-ways {
     margin-top: 15px;
+    margin-left: 25px;
     
 }
 .four-ways img {
     width: 100%;
-    height: 60%;
+    height: 40%;
 }
 #four-ways-text {
     text-align: center;
@@ -99,3 +100,38 @@ h4 {
     width: 22%;
     padding: 10px;
 }
+.training-family {
+    margin-top: 20px;
+    text-align: center;
+    line-height: 25px;
+    
+}
+.training-family img {
+    width: 300px;
+    
+}
+.training-family h4 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+.training-family-text p{
+margin-top: 20px;
+    width: 400px;
+    margin-left: 100px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+footer {
+    background-color: #4C4646;
+    height: 385px;
+    padding: 40px
+}
+footer img {
+    height: 300px;
+    }
+footer h4 p {
+    float:right;
+    width:200px;
+}
+
+
+
